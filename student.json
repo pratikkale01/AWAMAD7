@@ -1,0 +1,24 @@
+{
+    "student": [
+        {
+            "id": "1",
+            "name": "pratik",
+            "rollnumber":"10"
+        },
+        {
+            "id": "2",
+            "name": "Rohan darade",
+            "rollnumber":"20"
+        },
+        {
+            "id": "3",
+            "name": "Kalpesh pawar",
+            "rollnumber":"30"
+        },
+        {
+            "id": "4",
+            "name": "Vivek Dhumal",
+            "rollnumber":"40"
+        }
+    ]
+}

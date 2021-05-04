@@ -1,0 +1,18 @@
+{
+    "class": "TYCSE",
+    "subjects": [
+      {
+        "subject": "Law and Engineering",
+        "practicals": ["fundamental rights", "dpsp"],
+        "batch":"T8",
+        "id": "1"
+      },
+      {
+        "subject": "ADS",
+        "practicals": ["SQL", "MongoDB","Oracle"],
+        "batch":"T6",
+        "id": "2"
+      }
+    ]
+  }
+  
